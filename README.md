@@ -24,6 +24,7 @@
 - [ ] Insert column in loans to inform remaining debt amount.
 - [ ] Resolve  autofit problem in columns
 - [ ] Find solution to better filter visualization data. (The operations don't work if exists a filter in bank data.)
+- [ ] Insert actual or netx invoice option 
 
 ## Author
 <table>
